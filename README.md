@@ -147,6 +147,7 @@ Get pyenv-win via one of the following methods:
 
 
    Installation is done. Hurray!
+   Note: If you installed python and added it to path before, you need to remove it from path so pyenv can manage that for you. Othervise it will seem like you are stuck to the    same python version even if you change it with pyenv.
 
 ## 32bit-train Support
 
